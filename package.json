@@ -1,0 +1,22 @@
+{
+  "name": "time-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jvu42/time-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jvu42/time-tracker/issues"
+  },
+  "homepage": "https://github.com/jvu42/time-tracker#readme",
+  "dependencies": {
+    "active-win": "^7.7.2"
+  }
+}
