@@ -37,7 +37,7 @@ function createTables(db) {
 function dbReady(db){
     db.all(`SELECT * FROM windowUsage`,(err,rows) => {
         console.log(rows);
-        console.log(`Printing rows from windowUsage table`)
+        console.log(`Printing rows from windowUsage table`);
     });
 
 }
