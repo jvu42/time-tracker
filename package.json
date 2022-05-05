@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jvu42/time-tracker#readme",
   "dependencies": {
-    "active-win": "^7.7.2"
+    "active-win": "^7.7.2",
+    "mysql": "^2.18.1",
+    "sqlite3": "^5.0.7"
   }
 }
